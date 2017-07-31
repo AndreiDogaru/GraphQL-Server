@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Andrei barosu",
+      "email": "a@a.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Test test",
+      "email": "adas@a.com",
+      "age": 25
+    },
+    {
+      "id": "3",
+      "name": "Bla bla",
+      "email": "123a@a.com",
+      "age": 29
+    },
+    {
+      "id": "5",
+      "name": "User 5",
+      "email": "312@a.com",
+      "age": 22
+    },
+    {
+      "id": "6",
+      "name": "Andrei",
+      "email": "hfgh@a.com",
+      "age": 31
+    },
+    {
+      "name": "Baga bani",
+      "email": "jmen@je.co",
+      "age": 99,
+      "id": "H1dmbb6U-"
+    }
+  ]
+}
